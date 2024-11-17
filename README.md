@@ -1,4 +1,4 @@
-# socialauth_flutter_firebase
+# app_phoneauth_using_flutter_firebase
 Social Auth In Flutter and Firebase (Google, Facebook, Twitter and Phone Auth)
 
 # Overview
